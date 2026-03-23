@@ -29,7 +29,9 @@ The program reads predefined employee information (name, ID, job title, grade, s
 - │
 - ├── src/
 - │   └── payroll_system.ino
-- │
+- |
+- ├── libraries/
+- |   └── Adafruit_RGB_LCD_Shield_Library
 - ├── README.md
 - ├── LICENSE
 - └── .gitignore
